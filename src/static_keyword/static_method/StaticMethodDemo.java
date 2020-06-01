@@ -12,7 +12,7 @@ public class StaticMethodDemo {
 		
 //		banana = 10;  //compilation error : Cannot make a static reference to the non-static field banana
 
-//		vefeiesCount();  //compilation error : The method vefeiesCount() is undefined for the type StaticMethodDemo
+//		vegeiesCount();  //compilation error : Cannot make a static reference to the non-static method vegeiesCount()
 	}
 
 	
