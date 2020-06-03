@@ -1,4 +1,4 @@
-package abstract_keyword.abstract_class.exampleone;
+package abstract_keyword.abstract_class.exampletwo;
 
 
 
