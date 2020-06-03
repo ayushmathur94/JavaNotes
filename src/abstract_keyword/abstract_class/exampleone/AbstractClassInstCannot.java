@@ -21,3 +21,5 @@ public class AbstractClassInstCannot {
 		}
 
 }
+
+// output:  Derived fun() called (ie fun overrided)
