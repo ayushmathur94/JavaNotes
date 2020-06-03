@@ -9,7 +9,7 @@ abstract class Superclass{
 
 class DerivedClassX extends Superclass{
 	DerivedClassX(){
-		System.out.println("Derived constructor called");
+		System.out.println("Derived constructor called ");
 	}
 	void fun() {
 		System.out.println("Derived fun() called // implemented super class abstract method!! :)");
