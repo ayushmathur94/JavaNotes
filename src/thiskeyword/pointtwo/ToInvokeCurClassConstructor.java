@@ -7,7 +7,8 @@ public class ToInvokeCurClassConstructor{
 	
 	ToInvokeCurClassConstructor()
 	{
-		this(10, 20);
+		// System.out.println("I am here"); // error if uncommented -:  constructor call must be the first statement in a constructor.
+		this(10, 20);  // it is a constructor call for parameterized constructor. it looks for a constructor with tow int parameters/args
 		System.out.println("Inside Default Constructor");
 	}
 
