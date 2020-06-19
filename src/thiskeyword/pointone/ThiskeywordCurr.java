@@ -26,3 +26,5 @@ public class ThiskeywordCurr {
 	}
 	
 }
+
+//output-: a = 10 b = 20
