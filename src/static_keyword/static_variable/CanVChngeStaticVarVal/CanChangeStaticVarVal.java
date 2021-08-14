@@ -19,3 +19,5 @@ public class CanChangeStaticVarVal {
 // Answer is yes we can but by static method / static block only.
 
 
+//** But if static variable is with final keyword, then we can not change its value.  //error : The final field xcarCode can not be assigned. **
+
